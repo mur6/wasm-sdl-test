@@ -1,5 +1,10 @@
 # wasm-sdl-test
 
+## Prerequisite
+You need to have emscripten installed.
+
+See: https://emscripten.org/docs/getting_started/downloads.html
+
 ## Build
 ```
 cd build
